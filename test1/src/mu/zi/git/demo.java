@@ -7,5 +7,6 @@ public class demo {
 
 
         System.out.println("哈哈哈哈");
+        System.out.println("你好世界");
     }
 }
